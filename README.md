@@ -9,3 +9,5 @@ The following repository contains the following diagrams:
 * usecase.mdj - The Use Case Diagram.
 
 The folder img contains the images of the above UML diagrams in JPEG.
+
+For the explaination regarding each diagrams, please refer the wiki.
