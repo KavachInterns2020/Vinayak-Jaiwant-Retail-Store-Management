@@ -1,7 +1,7 @@
 ## Vinayak-Jaiwant--Retail-Store-Manangement-System
 A repository containing UML Diagrams regarding the Retail Store Management System.
 
-The following repository contains the following diagrams:
+This repository contains the following diagrams:
 
 * class.mdj - The class diagram.
 * erd.mdj - The ER diagram.
