@@ -8,6 +8,6 @@ This repository contains the following diagrams:
 * sequence.mdj - The Sequence Diagram.
 * usecase.mdj - The Use Case Diagram.
 
-The folder img contains the images of the above UML diagrams in JPEG.
+The folder img contains the images of the above UML diagrams in JPEG.(for wiki page)
 
 For the explaination regarding each diagrams, please refer the wiki.
